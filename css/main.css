@@ -4487,7 +4487,15 @@ dl.accordion.time-line:before {
 
 /* custom */
 #secondary-section{
-  background-color: #7CD2E2;;
+  background-color: #7CD2E2;
+}
+
+#fourth-section{
+  background-color: #7CD2E2;
+}
+
+#fifth-section{
+  background-color: #F9F1E9;
 }
 
 #black-text-paragraph{

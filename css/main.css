@@ -4483,3 +4483,15 @@ dl.accordion.time-line:before {
 }
 
 /*-------- end footer Area -------------*/
+
+
+/* custom */
+#secondary-section{
+  background-color: #7CD2E2;;
+}
+
+#black-text-paragraph{
+  color: black;
+}
+
+/* end custom */
